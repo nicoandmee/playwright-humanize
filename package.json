@@ -1,6 +1,6 @@
 {
   "name": "@nicoandmee/playwright-humanize",
-  "version": "1.1.5",
+  "version": "1.0.0",
   "description": "Humanization functions for Puppeteer.",
   "private": false,
   "keywords": [
